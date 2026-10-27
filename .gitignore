@@ -1,0 +1,20 @@
+# Never commit recovered data or run output
+run_*/
+recup_dir*/
+*.img
+*.dd
+*.raw
+photorec.log
+.photorec_gui/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

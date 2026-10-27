@@ -1,0 +1,2 @@
+# No third-party Python packages needed. Standard library only.
+# External dependency: PhotoRec (TestDisk package). See README.
