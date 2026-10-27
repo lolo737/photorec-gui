@@ -196,7 +196,7 @@ class App(tk.Tk):
 
     def _choose_image(self) -> None:
         p = filedialog.askopenfilename(title="Choose a disk image",
-                                       filetypes=[("Disk images", "*.img *.dd *.dmg *.iso *.raw *.bin"),
+                                       filetypes=[("Disk images", "*.img *.dd *.raw *.bin *.iso"),
                                                   ("All files", "*")])
         if p:
             self.image_path.set(p)
