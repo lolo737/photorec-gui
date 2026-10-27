@@ -15,6 +15,8 @@ PhotoRec has one flaw: it greets you with a text-only terminal menu of arrow key
 
 **This app is the friendly front door.** Pick the card. Pick a folder. Press one green button. Watch the files come home.
 
+<p align="center"><img src="docs/screenshot.png" alt="PhotoRec Recovery GUI main window" width="620"></p>
+
 <p align="center"><b>Pick the card → Pick a folder → Recover files</b></p>
 
 ---
